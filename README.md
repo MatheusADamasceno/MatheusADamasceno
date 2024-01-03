@@ -10,7 +10,7 @@
 
 - :raising_hand: Nome: Matheus Damasceno
 - :bowtie: Idade: 21 anos
-- 🔭 Analise e Desenvolvimento de Sistemas 4° Semestre
+- 🔭 Analise e Desenvolvimento de Sistemas 
 - 👩‍💻 Desenvolvedor Back-end 
 - 🗺️ Campo Grande, MS - Brasil
 
