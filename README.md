@@ -72,5 +72,8 @@
 <br>
 <div align="center">  
   
-Obrigado pela atenção! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" width="50" />
+<div style="text-align: center;">
+    Obrigado pela atenção!
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" width="50" />
 </div>
+
