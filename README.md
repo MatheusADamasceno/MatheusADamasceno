@@ -54,8 +54,8 @@
 
 <hr>
 
-![Profile Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusADamasceno&layout=compact&custom_title=MatheusADamasceno%20-%20Most%20Used%20Languages:&theme=dark&hide_border=true&hide=visual%20basic%20.net,php,c%2B%2B)
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=MatheusADamasceno&show_icons=true&theme=dark&hide_border=true&custom_title=MatheusADamasceno%20-%20GitHub%20Stats:&include_all_commits=true&hide=issues,contribs)
+![Principais linguagem](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusADamasceno&layout=compact&custom_title=MatheusADamasceno%20-%20Most%20Used%20Languages:&theme=dark&hide_border=true&hide=visual%20basic%20.net,php,c%2B%2B)
+![Estatísticas do perfil](https://github-readme-stats.vercel.app/api?username=MatheusADamasceno&show_icons=true&theme=dark&hide_border=true&custom_title=MatheusADamasceno%20-%20GitHub%20Stats:&include_all_commits=true&hide=issues,contribs)
 
   
 <div align="center">  
