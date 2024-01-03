@@ -9,7 +9,7 @@
 # <picture><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" width = 50px></picture> **Sobre mim:**
 
 - :raising_hand: Nome: Matheus Damasceno
-- :bowtie: Idade: 20 anos
+- :bowtie: Idade: 21 anos
 - 🔭 Analise e Desenvolvimento de Sistemas 4° Semestre
 - 👩‍💻 Desenvolvedor Back-end 
 - 🗺️ Campo Grande, MS - Brasil
