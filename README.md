@@ -7,7 +7,7 @@
 
 # <picture><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" width = 50px></picture> **Sobre mim:**
 
-- https://pt.piliapp.com/emoji/list/ Nome: Matheus Damasceno
+ - 🙋‍♂️ Nome: Matheus Damasceno
 - :bowtie: Idade: 21 anos
 - 🔭 Analise e Desenvolvimento de Sistemas 
 - 👩‍💻 Desenvolvedor Back-end 
