@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=40&duration=4000&pause=3000&color=6ED8E5&center=true&vCenter=true&repeat=true&width=1000&lines=Bem+Vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=35&duration=4000&pause=3000&color=6ED8E5&center=true&vCenter=true&repeat=true&width=1000&lines=%C3%89+o+Matheus+Damasceno+aqui.)](https://git.io/typing-svg)
 
 
 <hr>
