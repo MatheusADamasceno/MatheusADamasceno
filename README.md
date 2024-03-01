@@ -10,7 +10,7 @@
  - 🙋‍♂️ Nome: Matheus Damasceno
 - :bowtie: Idade: 21 anos
 - 🔭 Analise e Desenvolvimento de Sistemas 
-- 👩‍💻 Desenvolvedor Back-end 
+- 👩‍💻 Desenvolvedor front-end e Back-end 
 - 🗺️ Campo Grande, MS - Brasil
 
 # <picture><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" width = 50px></picture> **Curiosidades:**
