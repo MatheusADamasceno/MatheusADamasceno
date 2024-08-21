@@ -19,7 +19,7 @@
 - 🤘 Gosto de acompanhar batalhas de rimas, e sou um amante do freestyle Br.
 - 🚂 Gosto de fazer miniaturas, de gesso e madeira.
 - ♟️ Sou colecionador de moedas, selos e jogos de tabuleiro.
-- 🎭 cinéfilo 🎥 Meus diretores de cinema favoritos são Paul Thomas Anderson, Tarantino, Scorsese, Nolan, Wes Anderson e os Irmãos Coen...
+- 🎥 Meus diretores de cinema favoritos são Paul Thomas Anderson, Tarantino, Scorsese, Nolan, Wes Anderson e os Irmãos Coen...
 
 
 
