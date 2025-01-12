@@ -17,11 +17,11 @@
 
 ## 🤠 **Curiosidades**
 
-- 🏕️ Adoro trekking, acampamentos e bivaques.  
-- 🤘 Sou fã de batalhas de rimas e freestyle brasileiro.  
-- 🚂 Crio miniaturas de gesso e madeira como hobby.  
-- ♟️ Coleciono moedas, selos e jogos de tabuleiro.  
-- 🎥 Gosto de cinema, especialmente os filmes de diretores como Tarantino, Nolan e os Irmãos Coen.  
+- 🏕️ Curto fazer trekking, acampamentos e bivaques.
+- 🤘 Gosto de acompanhar batalhas de rimas, e sou um amante do freestyle Br.
+- 🚂 Gosto de fazer miniaturas, de gesso e madeira.
+- ♟️ Sou colecionador de moedas, selos e jogos de tabuleiro.
+- 🎥 Meus diretores de cinema favoritos são Paul Thomas Anderson, Tarantino, Scorsese, Nolan, Wes Anderson e os Irmãos Coen...
 
 ---
 
