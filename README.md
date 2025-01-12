@@ -1,8 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=40&duration=4000&pause=3000&color=6ED8E5&center=true&vCenter=true&repeat=true&width=1000&lines=Bem+vindo+ao+meu+GitHub!;Sinta-se+à+vontade!;Vamos+construir+algo+incrível!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=40&duration=4000&pause=3000&color=6ED8E5&center=true&vCenter=true&repeat=true&width=1000&lines=Bem+Vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
-<div align="center">
-  <img align="center" alt="Coding GIF" width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-</div>
+
+
+<hr>
+ <img align="right" width="50%" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 ---
 
