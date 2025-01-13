@@ -8,13 +8,13 @@
 </div>
 
 # <picture><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" width = 50px></picture> **Sobre mim:**
-
+<img align="right" width="25%" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
  - 🙋‍♂️ Nome: Matheus Damasceno
 - :bowtie: Idade: 21 anos
 - 🔭 Analise e Desenvolvimento de Sistemas 
 - 👩‍💻 Desenvolvedor front-end  
 - 🗺️ Campo Grande, MS - Brasil
-- <img align="right" width="25%" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+
 
 ---
 
