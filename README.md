@@ -13,7 +13,7 @@
 - 👩‍💻 Desenvolvedor front-end  
 - 🗺️ Campo Grande, MS - Brasil
 
-
+<br><br><br>
 ---
 
 # <picture><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" width = 50px></picture> **Curiosidades:**
