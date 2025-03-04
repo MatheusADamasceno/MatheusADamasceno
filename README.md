@@ -9,7 +9,7 @@
 
  - 🙋‍♂️ Nome: Matheus Damasceno
 - :bowtie: Idade: 22 anos
-- 🔭 Analise e Desenvolvimento de Sistemas 
+- 🔭 Análise e Desenvolvimento de Sistemas & Tecnologia da Informação
 - 👩‍💻 Desenvolvedor front-end  
 - 🗺️ Campo Grande, MS - Brasil
 
