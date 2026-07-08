@@ -32,7 +32,7 @@ Meu objetivo é criar aplicações simples, performáticas e escaláveis, sempre
 
 
 - 🏕️ Gosto de trekking, acampamentos e atividades ao ar livre.
--♟️ Tenho uma coleção de jogos de tabuleiro e também jogo RPG.
+- -♟️ Tenho uma coleção de jogos de tabuleiro e também jogo RPG.
 - 🪙 Coleciono moedas e selos.
 - 🎬 Gosto de cinema, principalmente filmes de Christopher Nolan, Martin Scorsese, Quentin Tarantino, Wes Anderson e Irmãos Coen.
 - 💻 Nas horas vagas gosto de desenvolver projetos pessoais e aprender novas tecnologias.
