@@ -47,7 +47,6 @@ Meu objetivo é criar aplicações simples, performáticas e escaláveis, sempre
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -95,6 +94,7 @@ Meu objetivo é criar aplicações simples, performáticas e escaláveis, sempre
 
 ## 📚 Atualmente estudando
 
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-111827?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-0EA5E9?style=for-the-badge)
