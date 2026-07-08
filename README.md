@@ -1,22 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1120,50:2563EB,100:38BDF8&text=Matheus%20Alves%20Damasceno&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20PHP%20•%20JavaScript%20•%20C%23&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=240&section=header&text=Matheus%20Alves%20Damasceno&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
 
-### 💻 Desenvolvendo soluções web modernas
+### 💻 PHP • JavaScript • TypeScript • C# • MySQL • REST APIs
 
 <br>
 
-<a href="https://www.linkedin.com/in/matheusalvesdamasceno">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:matheusalvesdamascenotwd@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/5562992060399">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusalvesdamasceno)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusalvesdamascenotwd@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=MatheusADamasceno&style=for-the-badge&color=2563EB)
 
 </div>
 
@@ -24,71 +16,26 @@
 
 # 👨‍💻 Sobre mim
 
-```yaml
-Nome: Matheus Alves Damasceno
+- 👋 Olá! Eu sou **Matheus Alves Damasceno**
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** 
+- 🎓 Graduando em **Tecnologia da Informação** 
+- 💼 Desenvolvedor **Full Stack**
+- 📍 Campo Grande - MS | Brasil
 
-Localização: Campo Grande - MS
+Atualmente trabalho com desenvolvimento de aplicações web utilizando **PHP, JavaScript, C#, MySQL e APIs REST**, além de atuar com **WordPress, WooCommerce, integrações entre sistemas, bancos de dados e gateways de pagamento**.
 
-Formação:
-  ✔ Análise e Desenvolvimento de Sistemas - Estácio
-  ✔ Tecnologia da Informação - UFMS (cursando)
-
-Cargo:
-  ✔ Full Stack Developer
-
-Stack Principal:
-  ✔ PHP
-  ✔ JavaScript
-  ✔ TypeScript
-  ✔ C#
-  ✔ MySQL
-```
-
-Desenvolvedor Full Stack focado em aplicações web, APIs REST e integração entre sistemas.
-
-Atualmente desenvolvo soluções utilizando PHP, JavaScript, MySQL e C#, trabalhando também com WordPress, WooCommerce, gateways de pagamento e integrações com serviços externos.
-
-Meu objetivo é construir aplicações simples, performáticas e escaláveis.
-
----
-
-# 🚀 Projetos em Destaque
-
-🛒 **Camporee DSA**
-
-Sistema internacional de inscrições utilizando WordPress, WooCommerce, PayPal e Eventin.
-
----
-
-📦 **Integração ACS**
-
-Integração entre WooCommerce e ERP utilizando APIs REST.
-
----
-
-🏪 **Sistema Jatobá**
-
-Marketplace desenvolvido em PHP com painel administrativo, carrinho, pedidos e autenticação.
-
----
-
-🃏 **Memória Card**
-
-Projeto pessoal voltado para gerenciamento de coleções de jogos de cartas.
+Meu objetivo é criar aplicações simples, performáticas e escaláveis, sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
 
 ---
 
 # ☕ Curiosidades
 
-🏕️ Gosto de trekking e acampamentos.
 
-♟️ Jogos de tabuleiro e RPG fazem parte dos meus hobbies.
-
-🪙 Coleciono moedas e selos.
-
-🎬 Gosto bastante de cinema.
-
-💻 Estou sempre criando projetos para aprender novas tecnologias.
+- 🏕️ Gosto de trekking, acampamentos e atividades ao ar livre.
+-♟️ Tenho uma coleção de jogos de tabuleiro e também jogo RPG.
+- 🪙 Coleciono moedas e selos.
+- 🎬 Gosto de cinema, principalmente filmes de Christopher Nolan, Martin Scorsese, Quentin Tarantino, Wes Anderson e Irmãos Coen.
+- 💻 Nas horas vagas gosto de desenvolver projetos pessoais e aprender novas tecnologias.
 
 ---
 
@@ -115,12 +62,12 @@ Projeto pessoal voltado para gerenciamento de coleções de jogos de cartas.
 
 ## ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
 
 ---
 
-## 🗄 Banco de Dados
+## 🗄️ Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -136,7 +83,7 @@ Projeto pessoal voltado para gerenciamento de coleções de jogos de cartas.
 
 ---
 
-## 🛠 Ferramentas
+## 🛠️ Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -149,16 +96,16 @@ Projeto pessoal voltado para gerenciamento de coleções de jogos de cartas.
 ## 📚 Atualmente estudando
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-0EA5E9?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-111827?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-0EA5E9?style=for-the-badge)
 
 ---
 
-# 📊 GitHub
-
+# 📊 Minhas estatísticas
+(não ta funcionando)
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheusADamasceno&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheusADamasceno&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusADamasceno&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -166,12 +113,28 @@ Projeto pessoal voltado para gerenciamento de coleções de jogos de cartas.
 
 ---
 
+# 📬 Entre em contato
+
 <div align="center">
 
-### ⭐ Obrigado pela visita!
+<a href="mailto:matheusalvesdamascenotwd@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-_"Code is more than making things work. It's about creating solutions that last."_
+<a href="https://www.linkedin.com/in/matheusalvesdamasceno">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,100:0B1120"/>
+</div>
+
+---
+
+<div align="center">
+
+###  Obrigado pela visita!
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:0F172A&height=120&section=footer"/>
 
 </div>
