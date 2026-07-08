@@ -1,37 +1,44 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=230&section=header&text=Matheus%20Alves%20Damasceno&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1120,50:2563EB,100:38BDF8&text=Matheus%20Alves%20Damasceno&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58"/>
 
-### PHP • JavaScript • C# • MySQL • REST APIs
+# 👋 Olá, eu sou o Matheus
 
-<br>
+### Desenvolvedor Full Stack apaixonado por criar soluções web modernas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusalvesdamasceno)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:matheusalvesdamascenotwd@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusalvesdamasceno)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusalvesdamascenotwd@gmail.com)
 
 </div>
 
 ---
 
-# 👋 Sobre mim
+# 💫 Sobre mim
 
-```text
-👤 Nome: Matheus Alves Damasceno
-🎂 Idade: 22 anos
-📍 Campo Grande - MS | Brasil
-🎓 Tecnologia da Informação - UFMS
-💼 Desenvolvedor Full Stack
+```yaml
+Nome: Matheus Alves Damasceno
+
+Idade: 22 anos
+
+Localização: Campo Grande - MS 🇧🇷
+
+Curso:
+  - Tecnologia da Informação (UFMS)
+
+Cargo:
+  - Full Stack Developer
+
+Atualmente:
+  - PHP
+  - JavaScript
+  - C#
+  - MySQL
+  - APIs REST
 ```
-
-Sou apaixonado por desenvolvimento de software e por transformar problemas em soluções simples e eficientes.
-
-Atualmente trabalho com desenvolvimento de aplicações web, integrações entre sistemas, APIs REST e bancos de dados, utilizando principalmente PHP, JavaScript e MySQL.
-
-Sempre busco escrever código limpo, aprender novas tecnologias e construir projetos que gerem impacto.
 
 ---
 
-# 🚀 Tecnologias
+# 🚀 Stack
 
 <div align="center">
 
@@ -41,77 +48,120 @@ Sempre busco escrever código limpo, aprender novas tecnologias e construir proj
 
 ---
 
-# 💼 Experiência
+# 💼 O que faço
 
-🟦 Desenvolvimento de aplicações Web
+<table>
+<tr>
+<td width="50%">
 
-🟦 APIs REST
+### 🌐 Desenvolvimento Web
 
-🟦 PHP
+- Sistemas Web
+- Landing Pages
+- Dashboards
+- Painéis Administrativos
 
-🟦 JavaScript
+</td>
 
-🟦 TypeScript
+<td width="50%">
 
-🟦 C#
+### 🔗 Integrações
 
-🟦 MySQL
+- REST APIs
+- Gateways de Pagamento
+- WooCommerce
+- WordPress
 
-🟦 WordPress
+</td>
+</tr>
 
-🟦 WooCommerce
+<tr>
+<td>
 
-🟦 Firebase
+### 🗄 Banco de Dados
 
-🟦 Supabase
+- MySQL
+- Modelagem
+- Consultas SQL
+
+</td>
+
+<td>
+
+### 📚 Estudando
+
+- ASP.NET
+- Clean Architecture
+- Design Patterns
+- TypeScript
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📈 GitHub
+# 📊 GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusADamasceno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MatheusADamasceno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusADamasceno&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusADamasceno&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📚 Atualmente estudando
+# 🛠 Tecnologias
 
-- Arquitetura de Software
-- Clean Code
-- C#
-- ASP.NET
-- TypeScript
-- Engenharia de Software
+<div align="center">
+
+| Backend | Frontend | Banco | Ferramentas |
+|---------|----------|--------|-------------|
+| PHP | HTML | MySQL | Git |
+| C# | CSS | Firebase | GitHub |
+| Node.js | JavaScript | Supabase | VS Code |
+| REST APIs | TypeScript | | Linux |
+
+</div>
 
 ---
 
-# 🎯 Interesses
+# 📈 Atualmente
 
-💻 Desenvolvimento Full Stack
+```text
+🚀 Trabalhando como Desenvolvedor Full Stack
 
-🔗 APIs e Integrações
+📚 Estudando Arquitetura de Software
 
-⚡ Performance
+⚡ Desenvolvendo APIs REST
 
-🗄️ Banco de Dados
+💡 Aprendendo ASP.NET
 
-☁️ Cloud
+🎯 Evoluindo em C#
+```
 
-📦 Microsserviços
+---
+
+# ☕ Curiosidades
+
+🏕️ Gosto de acampamentos e trekking
+
+♟️ Jogos de tabuleiro
+
+🪙 Coleciono moedas
+
+🎬 Cinema
+
+🎮 RPG e tecnologia
 
 ---
 
 <div align="center">
 
-### Obrigado pela visita!
+### "Code is where ideas become reality."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,100:0B1120"/>
 
 </div>
