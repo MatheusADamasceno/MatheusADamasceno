@@ -52,7 +52,7 @@ Gosto de criar soluções simples, funcionais e bem estruturadas, sempre buscand
 
 ## 🧩 O que eu faço
 
-```js
+```javascript
 const matheus = {
   role: "Full Stack Developer",
   location: "Campo Grande, MS - Brasil",
@@ -64,7 +64,7 @@ const matheus = {
     "WordPress & WooCommerce",
     "Banco de Dados"
   ],
-  learning: ["Arquitetura de Software", "Clean Code", "Backend"]
+  currentlyImproving: ["Backend", "Clean Code", "Software Architecture"]
 };
 ```
 
@@ -74,7 +74,7 @@ const matheus = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheusADamasceno&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=E5E7EB"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheusADamasceno&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=E5E7EB"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusADamasceno&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&text_color=E5E7EB"/>
 
@@ -82,28 +82,20 @@ const matheus = {
 
 ---
 
-## 🔥 Contribuições
+## 🔥 Frequência de Código
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MatheusADamasceno&theme=tokyonight&hide_border=true&background=0D1117&stroke=60A5FA&ring=60A5FA&fire=F97316&currStreakLabel=60A5FA"/>
+<img src="https://streak-stats.demolab.com?user=MatheusADamasceno&theme=tokyonight&hide_border=true&background=0D1117&stroke=60A5FA&ring=60A5FA&fire=F97316&currStreakLabel=60A5FA&sideLabels=E5E7EB&dates=9CA3AF"/>
 
 </div>
 
 ---
 
-## 📈 Atividade
+## 📈 Atividade no GitHub
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusADamasceno&bg_color=0D1117&color=E5E7EB&line=60A5FA&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusADamasceno&bg_color=0D1117&color=E5E7EB&line=60A5FA&point=FFFFFF&area=true&area_color=2563EB&hide_border=true&custom_title=Contribuições%20recentes"/>
 
 </div>
