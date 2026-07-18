@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=240&section=header&text=Matheus%20Alves%20Damasceno&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
 
-### 💻 PHP • JavaScript • TypeScript • C# • MySQL • REST APIs
+###  PHP • JavaScript • TypeScript • C# • MySQL • REST APIs
 
 <br>
 
