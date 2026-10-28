@@ -1,221 +1,140 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:38BDF8&text=Matheus%20Alves%20Damasceno&fontSize=37&fontColor=FFFFFF&fontAlignY=37&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn&section=header" alt="Matheus Alves Damasceno"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=240&section=header&text=Matheus%20Alves%20Damasceno&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
 
-### Desenvolvendo soluções, conectando sistemas e transformando ideias em aplicações.
+###  PHP • JavaScript • TypeScript • C# • MySQL • REST APIs
 
-**PHP · JavaScript · TypeScript · C# · MySQL · REST APIs**
+<br>
 
-<p>
-<a href="https://www.linkedin.com/in/matheusalvesdamasceno">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:matheusalvesdamascenotwd@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/MatheusADamasceno">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=MatheusADamasceno&style=flat-square&color=2563EB&label=Visualizações" alt="Visualizações do perfil"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusalvesdamasceno)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusalvesdamascenotwd@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=MatheusADamasceno&style=for-the-badge&color=2563EB)
 
 </div>
 
-## Sobre mim
+---
 
-Sou **Matheus Alves Damasceno**, desenvolvedor Full Stack, com experiência na criação, manutenção e integração de aplicações web.
+# 👨‍💻 Sobre mim
 
-Minha atuação envolve tanto o desenvolvimento de interfaces quanto a implementação de regras de negócio, APIs, bancos de dados e soluções para ambientes corporativos.
+- 👋 Olá! Eu sou **Matheus Alves Damasceno**
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** 
+- 🎓 Graduando em **Tecnologia da Informação** 
+- 💼 Desenvolvedor **Full Stack**
+- 📍 Campo Grande - MS | Brasil
 
-Trabalho principalmente com **PHP, JavaScript, MySQL, WordPress e WooCommerce**, desenvolvendo funcionalidades personalizadas, integrações com sistemas externos, automações e soluções para e-commerce.
+Atualmente trabalho com desenvolvimento de aplicações web utilizando **PHP, JavaScript, C#, MySQL e APIs REST**, além de atuar com **WordPress, WooCommerce, integrações entre sistemas, bancos de dados e gateways de pagamento**.
 
-Tenho interesse especial em compreender problemas reais e desenvolver soluções que sejam funcionais, seguras e fáceis de manter.
-
-- **Localização:** Campo Grande, Mato Grosso do Sul, Brasil
-- **Formação:** Análise e Desenvolvimento de Sistemas
-- **Graduação em andamento:** Tecnologia da Informação
-- **Atuação:** Desenvolvimento Full Stack e integrações
-- **Foco:** Aplicações web, APIs, automação e arquitetura de software
+Meu objetivo é criar aplicações simples, performáticas e escaláveis, sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
 
 ---
 
-## Stack tecnológica
+# ☕ Curiosidades
 
-### Linguagens de programação
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,js,ts,cs,python&theme=dark" alt="PHP, JavaScript, TypeScript, C# e Python"/>
-</p>
-
-### Front-end
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,jquery,vite&theme=dark" alt="HTML, CSS, React, Bootstrap, jQuery e Vite"/>
-</p>
-
-### Back-end e APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,postman&theme=dark" alt="Node.js, .NET e Postman"/>
-</p>
-
-`REST APIs` · `JSON` · `Webhooks` · `cURL` · `Autenticação` · `Integrações`
-
-### Bancos de dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,supabase&theme=dark" alt="MySQL, PostgreSQL, SQLite, Firebase e Supabase"/>
-</p>
-
-`SQL Server` · `Oracle Database` · `Consultas SQL` · `Modelagem de Dados`
-
-### CMS e e-commerce
-
-<p>
-<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress"/>
-</p>
-
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
-
-### Ferramentas e ambiente
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,cloudflare&theme=dark" alt="Git, GitHub, VS Code, Linux, Docker e Cloudflare"/>
-</p>
+- 🏕️ Gosto de trekking, acampamentos e atividades ao ar livre.
+- ♟️ Tenho uma coleção de jogos de tabuleiro e também jogo RPG.
+- 🪙 Coleciono moedas e selos.
+- 🎬 Gosto de cinema, principalmente filmes de Christopher Nolan, Martin Scorsese, Quentin Tarantino, Wes Anderson e Irmãos Coen.
+- 💻 Nas horas vagas gosto de desenvolver projetos pessoais e aprender novas tecnologias.
 
 ---
 
-## Especialidades
+# 🚀 Tecnologias
 
-Minha experiência profissional está concentrada no desenvolvimento de soluções web e na integração entre plataformas.
+## 💻 Linguagens
 
-| Área | Atuação |
-|:---|:---|
-| **Desenvolvimento Full Stack** | Interfaces, aplicações web, back-end e regras de negócio |
-| **Integração de sistemas** | APIs REST, webhooks, autenticação e sincronização de dados |
-| **E-commerce** | WooCommerce, checkout, pedidos, produtos e regras comerciais |
-| **Gateways de pagamento** | PIX, cartões, notificações e processamento de transações |
-| **Banco de dados** | Consultas SQL, modelagem, manutenção e otimização |
-| **Automação** | Rotinas agendadas, processamento de dados e integração de serviços |
-| **WordPress** | Plugins, temas, personalizações, manutenção e performance |
-| **Suporte e diagnóstico** | Análise de logs, correção de erros e incidentes em produção |
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
 
-## Experiência em projetos
+## 🌐 Front-end
 
-Ao longo da minha trajetória, venho trabalhando em projetos que exigem mais do que escrever código: entender processos, integrar plataformas e manter aplicações funcionando em ambientes reais.
-
-### Sistemas web e gestão
-
-Desenvolvimento de funcionalidades para controle de pedidos, produtos, usuários, operações comerciais e processos administrativos.
-
-**Tecnologias:** PHP, JavaScript, MySQL, HTML e CSS.
-
-### Integrações e automação
-
-Implementação e manutenção de comunicação entre sistemas, APIs externas, ERPs e serviços de terceiros, incluindo autenticação, tratamento de respostas e sincronização de informações.
-
-**Tecnologias:** PHP, APIs REST, JSON, cURL, SQL e Webhooks.
-
-### E-commerce e pagamentos
-
-Desenvolvimento e manutenção de lojas virtuais, personalização de checkout, regras de descontos, métodos de entrega e integrações com plataformas de pagamento.
-
-**Tecnologias:** WordPress, WooCommerce, PHP, JavaScript e MySQL.
-
-### Aplicações próprias
-
-Também desenvolvo projetos pessoais para explorar novas soluções, testar arquiteturas e colocar em prática conhecimentos de desenvolvimento Full Stack.
-
-**Tecnologias:** PHP, JavaScript, MySQL e ferramentas web.
-
-> Alguns dos projetos profissionais em que atuo são privados e, por isso, não possuem código-fonte disponível publicamente.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ---
 
-## Atualmente estudando
+## ⚙️ Backend
 
-Além das tecnologias que utilizo profissionalmente, continuo aprofundando meus conhecimentos em engenharia de software.
-
-```text
-Back-end
- ├── C# e ASP.NET Core
- ├── Desenvolvimento de APIs
- └── Arquitetura de aplicações
-
-Engenharia de Software
- ├── Clean Architecture
- ├── SOLID
- ├── Design Patterns
- └── Testes e boas práticas
-
-Infraestrutura
- ├── Linux
- ├── Docker
- ├── Deploy e hospedagem
- └── Segurança e performance
-```
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
 
 ---
 
-## Estatísticas do GitHub
+## 🗄️ Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+## 🛒 Plataformas
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+
+---
+
+## 🛠️ Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📚 Atualmente estudando
+
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-111827?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-0EA5E9?style=for-the-badge)
+
+---
+
+# 📊 Minhas estatísticas
 
 <div align="center">
 
-<a href="https://github.com/MatheusADamasceno">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MatheusADamasceno&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheusADamasceno&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<a href="https://github.com/MatheusADamasceno?tab=repositories">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusADamasceno&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas"/>
-</a>
-
-<br/>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=MatheusADamasceno&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusADamasceno&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<sub>As estatísticas refletem apenas a atividade disponível no GitHub e não representam toda a experiência em projetos privados e corporativos.</sub>
-
 ---
 
-## Um pouco além da programação
-
-Nem tudo se resume a código.
-
-Gosto de explorar diferentes áreas, aprender coisas novas e dedicar tempo a atividades que estimulam a criatividade e o raciocínio.
-
-- **Natureza:** trekking, acampamentos e atividades ao ar livre.
-- **Jogos:** jogos de tabuleiro, estratégia e RPG.
-- **Colecionismo:** moedas e selos.
-- **Cinema:** Christopher Nolan, Martin Scorsese, Quentin Tarantino, Wes Anderson e os irmãos Coen estão entre meus diretores favoritos.
-- **Tecnologia:** desenvolvimento de projetos pessoais e experimentação com novas ferramentas.
-
----
-
-## Vamos conversar?
-
-Estou aberto a conexões profissionais, troca de conhecimentos e oportunidades de colaborar em projetos interessantes.
+# 📬 Entre em contato
 
 <div align="center">
 
 <a href="mailto:matheusalvesdamascenotwd@gmail.com">
-<img src="https://img.shields.io/badge/Entrar_em_contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/matheusalvesdamasceno">
-<img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/><br/>
+</div>
 
-**Obrigado por visitar meu perfil.**
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:0F172A&height=110&section=footer" alt="Rodapé"/>
+<div align="center">
+
+###  Obrigado pela visita!
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:0F172A&height=120&section=footer"/>
 
 </div>
