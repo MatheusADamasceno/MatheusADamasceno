@@ -31,11 +31,13 @@ Meu objetivo é criar aplicações simples, performáticas e escaláveis, sempre
 # ☕ Curiosidades
 
 
-- 🏕️ Gosto de trekking, acampamentos e atividades ao ar livre.
-- ♟️ Tenho uma coleção de jogos de tabuleiro e também jogo RPG.
-- 🪙 Coleciono moedas e selos.
-- 🎬 Gosto de cinema, principalmente filmes de Christopher Nolan, Martin Scorsese, Quentin Tarantino, Wes Anderson e Irmãos Coen.
-- 💻 Nas horas vagas gosto de desenvolver projetos pessoais e aprender novas tecnologias.
+- 🏕️ Gosto de trekking, acampamentos e atividades ao ar livre, principalmente quando envolvem conhecer lugares novos.
+- ♟️ Tenho uma coleção de jogos de tabuleiro e também gosto bastante de RPG.
+- 🪙 Sou colecionador de várias coisas, desde selos e moedas até pedras e garrafas comemorativas.
+- 🎬 Gosto muito de cinema, principalmente dos filmes de Christopher Nolan, Martin Scorsese, Quentin Tarantino, Wes Anderson e dos irmãos Coen.
+- 💻 Nas horas vagas, gosto de desenvolver projetos pessoais, testar ideias e aprender novas tecnologias.
+- 🪵 Gosto de trabalhar com gesso e madeira, criando esculturas e colocando um pouco da minha criatividade em prática.
+- 🍳 Gosto de cozinhar, testar receitas novas e experimentar diferentes sabores e combinações.
 
 ---
 
